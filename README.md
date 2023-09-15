@@ -1,6 +1,6 @@
 # SATechnicalOnboarding
 
-Welcome to the GitHub repository for the [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Technical Onboarding Process. This is a template GitHub repository for Student Ambassadors to use in the technical onboarding experience.
+Welcome to the GitHub repository for the [Microsoft Learn Student Ambassador](http://studentambassadors.microsoft.com/) Technical Onboarding Process. 
 
 By completing this Technical Onboarding Process, I've developed my expertise in Microsoft Azure and successfully completed training in GitHub. I've also fulfilled one of the prerequisites for advancing in the program.
 
